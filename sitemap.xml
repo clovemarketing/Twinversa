@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.twinversa.com/</loc>
+    <lastmod>2026-09-24</lastmod>
+  </url>
+
+  <!-- Solutions -->
+  <url>
+    <loc>https://www.twinversa.com/asset-intelligence</loc>
+    <lastmod>2026-09-24</lastmod>
+  </url>
+  <url>
+    <loc>https://www.twinversa.com/predictive-maintenance</loc>
+    <lastmod>2026-09-24</lastmod>
+  </url>
+  <url>
+    <loc>https://www.twinversa.com/iot-monitoring</loc>
+    <lastmod>2026-09-24</lastmod>
+  </url>
+  <url>
+    <loc>https://www.twinversa.com/facility-management</loc>
+    <lastmod>2026-09-24</lastmod>
+  </url>
+
+  <!-- Case studies -->
+  <url>
+    <loc>https://www.twinversa.com/case-studies</loc>
+    <lastmod>2026-09-24</lastmod>
+  </url>
+  <url>
+    <loc>https://www.twinversa.com/digital-twin-mumbai-metro-corridor-case-study</loc>
+    <lastmod>2026-09-24</lastmod>
+  </url>
+  <url>
+    <loc>https://www.twinversa.com/scada-digital-twin-substation-monitoring</loc>
+    <lastmod>2026-09-24</lastmod>
+  </url>
+  <url>
+    <loc>https://www.twinversa.com/pumphouse-digital-twin-asset-integrity</loc>
+    <lastmod>2026-09-24</lastmod>
+  </url>
+
+  <!-- Blog -->
+  <url>
+    <loc>https://www.twinversa.com/blogs</loc>
+    <lastmod>2026-09-24</lastmod>
+  </url>
+  <url>
+    <loc>https://www.twinversa.com/digital-twin-for-modern-airport-infrastructure</loc>
+    <lastmod>2026-09-24</lastmod>
+  </url>
+  <url>
+    <loc>https://www.twinversa.com/digital-twin-modern-stadiums</loc>
+    <lastmod>2026-09-24</lastmod>
+  </url>
+
+  <!-- Company -->
+  <url>
+    <loc>https://www.twinversa.com/projects</loc>
+    <lastmod>2026-09-24</lastmod>
+  </url>
+  <url>
+    <loc>https://www.twinversa.com/about-us</loc>
+    <lastmod>2026-09-24</lastmod>
+  </url>
+  <url>
+    <loc>https://www.twinversa.com/contact-us</loc>
+    <lastmod>2026-09-24</lastmod>
+  </url>
+
+</urlset>
